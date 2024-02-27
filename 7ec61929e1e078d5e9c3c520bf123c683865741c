@@ -16,6 +16,23 @@
       "message": "Wait until its merged in master",
       "revId": "7ec61929e1e078d5e9c3c520bf123c683865741c",
       "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "6e985e90_65f93bd6",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000488
+      },
+      "writtenOn": "2024-02-27T05:42:23Z",
+      "side": 1,
+      "message": "Merged in master.",
+      "revId": "7ec61929e1e078d5e9c3c520bf123c683865741c",
+      "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
     }
   ]
 }
